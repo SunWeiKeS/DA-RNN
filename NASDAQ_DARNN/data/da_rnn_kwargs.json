@@ -1,0 +1,8 @@
+{
+    "n_targs": 1,
+    "encoder_hidden_size": 64,
+    "decoder_hidden_size": 64,
+    "T": 10,
+    "learning_rate": 0.001,
+    "batch_size": 128
+}
